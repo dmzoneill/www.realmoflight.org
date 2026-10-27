@@ -1,5 +1,9 @@
 # realmoflight.org
 
+<p align="center">
+  <img src=".github/logo.png" alt="www.realmoflight.org logo" width="128" />
+</p>
+
 The site for Realm of Light, made up of a landing page and a phpBB forum.
 
 ## Contents
